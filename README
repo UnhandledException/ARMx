@@ -1,1 +1,9 @@
-ARMx is a set of scripts and documentation that is used to compile the CodeSourcery toolchain for ARM GNU/Linux.
+Cross Toolchain for Mac OS X
+====================================
+
+ARMx is a set of scripts and documentation to build:
+
+o  Sourcery CodeBench Lite Edition (ARM GNU/Linux)
+o  Qt/Embedded and related tools
+
+The project aims to provide a complete embedded Linux software development environment on a Macintosh host.
